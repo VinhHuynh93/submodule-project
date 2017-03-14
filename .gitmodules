@@ -1,0 +1,6 @@
+[submodule "submodule-library"]
+	path = submodule-library
+	url = https://github.com/VinhHuynh93/submodule-library.git
+[submodule "library"]
+	path = library
+	url = https://github.com/VinhHuynh93/submodule-library.git
